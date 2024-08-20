@@ -27,11 +27,15 @@
 ## 🚀 &nbsp;Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,rust,c,cpp,go,matlab,julia,pytorch,tensorflow,sklearn,pandas,numpy,opencv,pillow,git,linux,vscode,visualstudio,latex&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,r,rust,c,cpp,go,matlab,julia,pytorch,tensorflow,opencv,pillow,git,linux,vscode,visualstudio,latex&perline=6" />
   </a>
 </p>
 
 ### Additional Tools:
+- **Scikit-learn**
+- **Pandas**
+- **NumPy**
+- **Pillow**
 - **Gymnasium**
 - **Stable-Baselines3**
 - **Transformers & HuggingFace**
