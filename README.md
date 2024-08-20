@@ -16,22 +16,14 @@
 - **🔄 Meta Learning**
 - **🔀 Transfer Learning**
 
-## 🚀 &nbsp;Languages and Tools
-<!--[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,cpp,c,tensorflow,pytorch,vscode,visualstudio,latex,git,linux&perline=6)](https://skillicons.dev)-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,matlab,cpp,c,tensorflow,pytorch,vscode,visualstudio,latex,git,linux&perline=6" />
-  </a>
-</p>
-
-## 🚀 &nbsp;Languages and Tools
+# 🚀 &nbsp;Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,rust,c,cpp,go,matlab,julia,pytorch,tensorflow,opencv,git,linux,latex,sublime&perline=6" />
   </a>
 </p>
 
-### Additional Tools:
+### And Additional Tools:
 - **Scikit-learn**
 - **Pandas**
 - **NumPy**
@@ -53,10 +45,7 @@ SSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 
 
 
-I am a passionate **machine learning researcher** with a focus on:
-- 🧠 Deep Learning
-- 🤖 Reinforcement Learning
-- 🔬 Research in AI & ML
+
 
 ### 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
