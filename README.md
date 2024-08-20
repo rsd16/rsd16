@@ -10,9 +10,7 @@
     <img src="https://skillicons.dev/icons?i=py,r,matlab,cpp,c,tensorflow,pytorch,vscode,visualstudio,latex,git,linux&perline=6" />
   </a>
 </p>
-<details>
-<summary>📈 Stats</summary>
-<br>
+
 
 
 
