@@ -47,7 +47,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)
-
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
@@ -55,7 +54,8 @@
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white&style=for-the-badge)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge)
 
-# 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rashidireza1666@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alireza-rashidi-laleh)
+# 📫 Reach Me:
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rashidireza1666@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alireza-rashidi-laleh)
 
 # 📈 My GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rsd16&show_icons=true&theme=radical)
