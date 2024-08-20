@@ -56,10 +56,3 @@
 
 # 📫 Reach Me:
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rashidireza1666@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alireza-rashidi-laleh)
-
-# 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rsd16&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsd16&layout=compact&theme=radical)
-
-
-
