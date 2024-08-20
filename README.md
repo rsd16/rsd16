@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 # 👨🏻‍💻 &nbsp;About Me
-**I'm Alireza Rashidi Laleh, a Ph.D. student at the School of Electrical and Computer Engineering (ECE), from the [University of Tehran](https://ut.ac.ir/en). I major in Computer Engineering - Artificial Intelligence. My current research area is Reinforcement Learning and Large Language Models. 
+**I'm Alireza Rashidi Laleh, a Ph.D. student at the School of Electrical and Computer Engineering (ECE), from the [University of Tehran](https://ut.ac.ir/en). I major in Computer Engineering - Artificial Intelligence. My current research area is Reinforcement Learning and Large Language Models.**
 
 I specialize in these fields:
 - 🧠 Deep Learning
