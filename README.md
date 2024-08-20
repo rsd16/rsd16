@@ -16,35 +16,7 @@
 - **🔄 Meta Learning**
 - **🔀 Transfer Learning**
 
-# 🚀 &nbsp;Languages and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,rust,c,cpp,go,matlab,julia,pytorch,tensorflow,opencv,git,linux,latex,sublime&perline=6" />
-  </a>
-</p>
-
-### And Additional Tools:
-- **Scikit-learn**
-- **Pandas**
-- **NumPy**
-- **Pillow**
-- **Gymnasium**
-- **Stable-Baselines3**
-- **Transformers & HuggingFace**
-- **Llama.cpp**
-- **SpaCy**
-- **NLTK**
-- **Matplotlib**
-- **Seaborn**
-
-
-
-
-
-
-
 # 🔧 Programming Languages, Frameworks, Technologies, and Tools
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
@@ -83,26 +55,15 @@
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white&style=for-the-badge)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge)
 
+# 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rashidireza1666@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alireza-rashidi-laleh)
 
-### 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rsd16&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsd16&layout=compact&theme=radical)
-
-### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/alireza-rashidi-laleh)
 - [Email](mailto:rashidireza1666@gmail.com)
 
-<!--
-**rsd16/rsd16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📈 My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rsd16&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsd16&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
