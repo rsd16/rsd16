@@ -61,23 +61,18 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
 ![Gymnasium](https://img.shields.io/badge/-Gymnasium-FF4500?logo=openaigym&logoColor=white&style=for-the-badge)
 ![Stable-Baselines3](https://img.shields.io/badge/-Stable--Baselines3-FF6F00?logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
-
 ![Pillow](https://img.shields.io/badge/-Pillow-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/-Transformers-FF6F00?logo=huggingface&logoColor=white&style=for-the-badge)
 ![Llama.cpp](https://img.shields.io/badge/-Llama.cpp-56347C?logo=llama&logoColor=white&style=for-the-badge)
 ![SpaCy](https://img.shields.io/badge/-SpaCy-09A3D5?logo=spacy&logoColor=white&style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/-NLTK-00599C?logo=python&logoColor=white&style=for-the-badge)
-
-
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C71F2?logo=python&logoColor=white&style=for-the-badge)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)
 
 
