@@ -32,8 +32,8 @@ I am a passionate **machine learning researcher** with a focus on:
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 
 ### 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rsd16&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsd16&layout=compact&theme=radical)
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/alireza-rashidi-laleh)
