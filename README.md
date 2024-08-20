@@ -56,9 +56,12 @@
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
 ![Gymnasium](https://img.shields.io/badge/-Gymnasium-FF4500?logo=openaigym&logoColor=white&style=for-the-badge)
 ![Stable-Baselines3](https://img.shields.io/badge/-Stable--Baselines3-FF6F00?logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
@@ -69,7 +72,7 @@
 ![SpaCy](https://img.shields.io/badge/-SpaCy-09A3D5?logo=spacy&logoColor=white&style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/-NLTK-00599C?logo=python&logoColor=white&style=for-the-badge)
 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-239120?logo=python&logoColor=white&style=for-the-badge)
+
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C71F2?logo=python&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge)
