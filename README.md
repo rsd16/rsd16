@@ -43,7 +43,7 @@
 
 
 
-### 🔧 Technologies & Tools
+# 🔧 Programming Languages, Frameworks, Technologies, and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
@@ -69,14 +69,19 @@
 ![SpaCy](https://img.shields.io/badge/-SpaCy-09A3D5?logo=spacy&logoColor=white&style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/-NLTK-00599C?logo=python&logoColor=white&style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C71F2?logo=python&logoColor=white&style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow)
-
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FF6F00?logo=huggingface&logoColor=white&style=for-the-badge)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge)
 
 
 ### 📈 My GitHub Stats
