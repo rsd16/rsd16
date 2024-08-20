@@ -10,8 +10,11 @@
 - **🗣️ Large Language Models**
 - **🌐 Natural Language Processing**
 - **👁️ Computer Vision**
-
-**and most important fields in Artificial Intelligence.**
+- **📊 Data Science, Data Analysis**
+- **🎨 Deep Generative Models**
+- **🖼️ Vision-Language Models**
+- **🔄 Meta Learning**
+- **🔀 Transfer Learning**
 
 ## 🚀 &nbsp;Languages and Tools
 <!--[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,cpp,c,tensorflow,pytorch,vscode,visualstudio,latex,git,linux&perline=6)](https://skillicons.dev)-->
@@ -22,7 +25,12 @@
 </p>
 
 
-
+## 🚀 &nbsp;Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,rust,c,cpp,go,matlab,julia,pytorch,tensorflow,sklearn,pandas,numpy,gym,opencv,pillow,huggingface,git,linux,vscode,visualstudio,latex&perline=6" />
+  </a>
+</p>
 
 
 SSSSSSSSSSSSSSSSSSSSSSSSSSSSS
