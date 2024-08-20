@@ -3,7 +3,7 @@
 # About Me
 ![Banner](https://your-banner-image-url.com)
 
-### 👋 Hi there! I’m [Your Name]
+### 👋 Hi there! I’m Alireza
 I am a passionate **machine learning researcher** with a focus on:
 - 🧠 Deep Learning
 - 🤖 Reinforcement Learning
@@ -19,8 +19,8 @@ I am a passionate **machine learning researcher** with a focus on:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/alireza-rashidi-laleh)
+- [Email](mailto:rashidireza1666@gmail.com)
 
 <!--
 **rsd16/rsd16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
