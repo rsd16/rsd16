@@ -70,6 +70,7 @@
 ![SpaCy](https://img.shields.io/badge/-SpaCy-09A3D5?logo=spacy&logoColor=white&style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/-NLTK-00599C?logo=python&logoColor=white&style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C71F2?logo=python&logoColor=white&style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge)
