@@ -3,7 +3,14 @@
 # 👨🏻‍💻 &nbsp;About Me
 **I'm Alireza Rashidi Laleh, a Ph.D. student at the School of Electrical and Computer Engineering (ECE), from the [University of Tehran](https://ut.ac.ir/en). I major in Computer Engineering - Artificial Intelligence. My current research area is Reinforcement Learning and Large Language Models. 
 
-I have theoretical and practical understanding of Deep Learning, Machine Learning, Reinforcement Learning, Large Language Models, Natural Language Processing, Computer Vision, and most important fields in Artificial Intelligence.**
+I specialize in these fields:
+- 🧠 Deep Learning
+- 📚 Machine Learning
+- 🤖 Reinforcement Learning
+- 🗣️ Large Language Models
+- 🌐 Natural Language Processing
+- 👁️ Computer Vision
+and most important fields in Artificial Intelligence.**
 
 ## 🚀 &nbsp;Languages and Tools
 <!--[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,cpp,c,tensorflow,pytorch,vscode,visualstudio,latex,git,linux&perline=6)](https://skillicons.dev)-->
